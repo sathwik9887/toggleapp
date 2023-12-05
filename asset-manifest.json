@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/hiddensearchapp/static/js/main.5c39e55b.js",
-    "index.html": "/hiddensearchapp/index.html",
-    "main.5c39e55b.js.map": "/hiddensearchapp/static/js/main.5c39e55b.js.map"
+    "main.js": "/toggleapp/static/js/main.5c39e55b.js",
+    "index.html": "/toggleapp/index.html",
+    "main.5c39e55b.js.map": "/toggleapp/static/js/main.5c39e55b.js.map"
   },
   "entrypoints": [
     "static/js/main.5c39e55b.js"
